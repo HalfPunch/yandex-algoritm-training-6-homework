@@ -4,23 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3636aec3-b105-4212-8aa2-3d50faae066c" name="Changes" comment="yandex algorithm training 6 first homework completed">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework-2/A-prefix-sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework-2/B-number-sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework-2/C-town-ch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework-2/D-best-rest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework-2/E-deleting-meridians.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework-2/F-triplet-product-sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework-2/G-censored_literature.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework-2/H-moving-to-openspace.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework-2/I-algorithm-learning.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework-2/J-clue-inspection.py" afterDir="false" />
+    <list default="true" id="3636aec3-b105-4212-8aa2-3d50faae066c" name="Changes" comment="yandex algorithm training 6 first 2 homework completed">
+      <change afterPath="$PROJECT_DIR$/homework-3/A-correct-brackets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework-3/B-lineland-migration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework-3/C-sections-minimum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework-3/D-postfix-notation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework-3/E-arithmetic-expression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework-3/F-minimal-cbs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework-3/G-order-pick-up-point.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework-3/H-stack-sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework-3/I-automatic-storage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework-3/J-chair-bed.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/yandex-algoritm-training-6-homework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/yandex-algoritm-training-6-homework.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework-1/Tablet writings.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework-1/C-tablet-writings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework-1/raft.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework-1/A-raft.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework-1/t-shirts-and-socks.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework-1/B-t-shirts-and-socks.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,10 +61,20 @@
   &quot;keyToString&quot;: {
     &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
     &quot;Python tests.Python tests in t-shirts-and-socks.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.A-correct-brackets.executor&quot;: &quot;Run&quot;,
+    &quot;Python.B-lineland-migration.executor&quot;: &quot;Run&quot;,
     &quot;Python.B-number-sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.C-sections-minimum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.D-postfix-notation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.E-arithmetic-expression.executor&quot;: &quot;Run&quot;,
+    &quot;Python.F-minimal-cbs.executor&quot;: &quot;Run&quot;,
     &quot;Python.G-censored_literature.executor&quot;: &quot;Run&quot;,
+    &quot;Python.G-order-pick-up-point.executor&quot;: &quot;Run&quot;,
     &quot;Python.H-moving-to-openspace.executor&quot;: &quot;Run&quot;,
+    &quot;Python.H-stack-sum.executor&quot;: &quot;Run&quot;,
     &quot;Python.I-algorithm-learning.executor&quot;: &quot;Run&quot;,
+    &quot;Python.I-automatic-storage.executor&quot;: &quot;Run&quot;,
+    &quot;Python.J-chair-bed.executor&quot;: &quot;Run&quot;,
     &quot;Python.Tablet writings.executor&quot;: &quot;Run&quot;,
     &quot;Python.best-rest.executor&quot;: &quot;Run&quot;,
     &quot;Python.censored_literature.executor&quot;: &quot;Run&quot;,
@@ -90,8 +95,8 @@
       <recent name="C:\Users\matvey\yandex-algoritm-training-6-homework\localy-generated-files" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.B-number-sum">
-    <configuration name="B-number-sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.J-chair-bed">
+    <configuration name="F-minimal-cbs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="yandex-algoritm-training-6-homework" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -100,11 +105,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework-2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework-3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework-2/B-number-sum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework-3/F-minimal-cbs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="F-triplet-product-sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="G-order-pick-up-point" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="yandex-algoritm-training-6-homework" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -122,11 +127,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework-2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework-3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\matvey\yandex-algoritm-training-6-homework\homework-2\F-triplet-product-sum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework-3/G-order-pick-up-point.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,7 +140,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="G-censored_literature" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="H-stack-sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="yandex-algoritm-training-6-homework" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -144,11 +149,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework-2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework-3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\matvey\yandex-algoritm-training-6-homework\homework-2\G-censored_literature.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework-3/H-stack-sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,7 +162,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="H-moving-to-openspace" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="I-automatic-storage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="yandex-algoritm-training-6-homework" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -166,11 +171,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework-2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework-3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework-2/H-moving-to-openspace.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework-3/I-automatic-storage.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,7 +184,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="I-algorithm-learning" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="J-chair-bed" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="yandex-algoritm-training-6-homework" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -188,11 +193,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework-2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework-3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework-2/I-algorithm-learning.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework-3/J-chair-bed.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -225,11 +230,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.B-number-sum" />
-        <item itemvalue="Python.I-algorithm-learning" />
-        <item itemvalue="Python.H-moving-to-openspace" />
-        <item itemvalue="Python.G-censored_literature" />
-        <item itemvalue="Python.F-triplet-product-sum" />
+        <item itemvalue="Python.J-chair-bed" />
+        <item itemvalue="Python.I-automatic-storage" />
+        <item itemvalue="Python.H-stack-sum" />
+        <item itemvalue="Python.G-order-pick-up-point" />
+        <item itemvalue="Python.F-minimal-cbs" />
       </list>
     </recent_temporary>
   </component>
@@ -257,11 +262,20 @@
       <option name="project" value="LOCAL" />
       <updated>1730213811529</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="yandex algorithm training 6 first 2 homework completed">
+      <option name="closed" value="true" />
+      <created>1730999609604</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730999609604</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="yandex algorithm training 6 first homework completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="yandex algorithm training 6 first homework completed" />
+    <MESSAGE value="yandex algorithm training 6 first 2 homework completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="yandex algorithm training 6 first 2 homework completed" />
   </component>
 </project>
